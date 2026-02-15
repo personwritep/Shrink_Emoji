@@ -6,6 +6,7 @@
 // @author        Ameba Blog User
 // @match        https://blog.ameba.jp/ucs/entry/srventry*
 // @exclude        https://blog.ameba.jp/ucs/entry/srventrylist.do*
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=ameblo.jp
 // @grant        none
 // @updateURL        https://github.com/personwritep/Shrink_Emoji/raw/main/Shrink_Emoji.user.js
 // @downloadURL        https://github.com/personwritep/Shrink_Emoji/raw/main/Shrink_Emoji.user.js
